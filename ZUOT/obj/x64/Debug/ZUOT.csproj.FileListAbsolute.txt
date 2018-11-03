@@ -1,0 +1,13 @@
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\bin\x64\Debug\ZUOT.exe.config
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\bin\x64\Debug\ZUOT.exe
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\bin\x64\Debug\ZUOT.pdb
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\bin\x64\Debug\zh-CN\ZUOT.resources.dll
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ResolveAssemblyReference.cache
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ZUOT.MainForm.resources
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ZUOT.Properties.Resources.resources
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ZUOT.MainForm.zh-CN.resources
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\GenerateResource-ResGen.read.1.tlog
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\GenerateResource-ResGen.write.1.tlog
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\zh-CN\ZUOT.resources.dll
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ZUOT.exe
+e:\MyDocuments\Visual Studio 2010\Projects\ZUOT\ZUOT\obj\x64\Debug\ZUOT.pdb
